@@ -1,10 +1,15 @@
 <div align="center">
-  <img src="profile-banner.png" alt="Rishab P Jain Banner" width="100%">
-</div>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1218,50:1b2b50,100:3b83f6&height=220&section=header&text=RISHAB%20P%20JAIN&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Strategy%20%26%20Business%20Analytics%20%7C%20AI%20%26%20ML%20Developer&descSize=16&descAlignY=55&descColor=cccccc" width="100%" />
 
-<div align="center">
-  <h1>Hi, I'm Rishab P Jain 🚀</h1>
-  <p><strong>Strategy & Business Analytics @ Christ University | Independent ML Developer | Future Strategy Consultant</strong></p>
+  **Bridging Strategy and Business Analytics through Production-Grade AI and Experimental Design.**
+
+  <p align="center">
+    <a href="https://github.com/RishabJainhub/RishabJainhub"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"></a>
+    <a href="https://github.com/RishabJainhub/RishabJainhub"><img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL"></a>
+    <a href="https://github.com/RishabJainhub/RishabJainhub"><img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit"></a>
+    <a href="https://github.com/RishabJainhub/RishabJainhub"><img src="https://img.shields.io/badge/n8n-FF6D5A?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n"></a>
+    <a href="https://github.com/RishabJainhub/RishabJainhub"><img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI"></a>
+  </p>
 </div>
 
 ---
