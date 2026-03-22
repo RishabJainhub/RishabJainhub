@@ -54,17 +54,27 @@ I am a Strategy and Business Analytics student at Christ University, Bengaluru, 
 
 ### 🏆 Enterprise-Grade Implementations
 
+<a href="https://github.com/RishabJainhub/market-research-pipeline"><img src="assets/market_research.png" width="100%" style="border-radius:12px;"></a>
+
 #### ⚡ [AI Market Research Pipeline](https://github.com/RishabJainhub/market-research-pipeline)
 **Automated Market Intelligence Workflow**
 - Zero-touch research pipeline leveraging **n8n orchestration** and parallel **Tavily Search API** arrays for real-time market data ingestion.
 - Multi-agent synthesis via a 3-stage **Groq LLaMA 3.3 70B** progressive prompt chain to generate structured, C-suite ready HTML reports delivered via Gmail.
 - *Keywords:* `n8n`, `Groq`, `LLaMA 3.3`, `Tavily Search`, `Agentic Automation`
 
+<br/>
+
+<a href="https://github.com/RishabJainhub/sme-credit-platform"><img src="assets/sme_credit.png" width="100%" style="border-radius:12px;"></a>
+
 #### 🛡️ [SME Credit Risk Assessment System](https://github.com/RishabJainhub/sme-credit-platform)
 **Automated Loan Scoring Engine**
 - A robust default probability model utilizing **XGBoost classification** coupled with **SHAP value explainability** to align with regulatory transparency standards.
 - Integrated real-world RBI macroeconomic data pipelines to contextualize dynamic structural risks in standard financial metrics.
 - *Keywords:* `Machine Learning`, `Finance`, `XGBoost`, `SHAP`, `Python`
+
+<br/>
+
+<a href="https://github.com/RishabJainhub/eq-analytics-terminal"><img src="assets/nexus_terminal.png" width="100%" style="border-radius:12px;"></a>
 
 #### 💎 [Nexus Equity Terminal](https://github.com/RishabJainhub/eq-analytics-terminal)
 **AI-Powered Equity Research Dashboard**
