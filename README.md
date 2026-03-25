@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=220&section=header&text=RISHAB%20P%20JAIN&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=AI%20Architect%20%7C%20Business%20Analytics%20%7C%20Strategy&descSize=16&descAlignY=55&descColor=ffffff" width="100%" />
 
-  **📍 Bengaluru, India | ✉ rishab.p.bba.sba@christuniversity.in**<br/>
+  **📍 Bengaluru, India | ✉ rishabprakashjain12@gmail.com**<br/>
   *Bridging Strategy and Business Analytics through Production-Grade AI architectures and experimental design.*
 </div>
 
