@@ -93,7 +93,7 @@ I am a **Strategy and Business Analytics student at Christ University, Bengaluru
 <div align="center">
   <br/>
   <a href="https://linkedin.com/in/rishab-p-jain"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:rishab.p.bba.sba@christuniversity.in"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="mailto:rishabprakashjain12@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://orcid.org/0009-0001-9678-8415"><img src="https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" /></a>
   <br/>
   <br/>
