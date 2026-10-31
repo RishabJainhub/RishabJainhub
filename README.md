@@ -179,6 +179,7 @@ Operating at the intersection of **artificial intelligence architectures, quanti
       </td>
       <td>
         <img alt="Python" src="https://img.shields.io/badge/Python_3.11-3776AB?style=flat-square&logo=python&logoColor=white" /><br/>
+        <img alt="Hugging Face" src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black" /><br/>
         <img alt="PyTorch" src="https://img.shields.io/badge/PyTorch_GRU-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" /><br/>
         <img alt="Llama 3.1" src="https://img.shields.io/badge/LLaMA_3.1_8B-0467DF?style=flat-square&logo=meta&logoColor=white" /><br/>
         <img alt="Streamlit" src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" />
@@ -278,6 +279,7 @@ Operating at the intersection of **artificial intelligence architectures, quanti
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
 
 ### 🤖 Generative AI, Agents & Protocols
+![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
 ![Model Context Protocol](https://img.shields.io/badge/MCP_Protocol-7C3AED?style=flat-square&logo=anthropic&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
 ![RAG Architecture](https://img.shields.io/badge/RAG_Pipelines-059669?style=flat-square&logo=databricks&logoColor=white)
