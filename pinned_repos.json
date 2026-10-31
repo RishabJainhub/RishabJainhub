@@ -1,0 +1,113 @@
+[
+  {
+    "order": 1,
+    "repo_name": "mahendra",
+    "display_title": "Mahendra Distributors — B2B Wholesale ERP & Pricing Engine",
+    "role": "Co-Founder, Lead Systems & Product Architect",
+    "category": "Enterprise Full-Stack Production SaaS",
+    "primary_stack": "Next.js 16, React 19, TypeScript, Supabase (PostgreSQL + RLS), Tailwind CSS, @react-pdf/renderer, bwip-js",
+    "key_metric": "Consignment intake slashed from 4 hours to <30 seconds; 4–6% margin leakage eliminated",
+    "description": "Enterprise B2B wholesale supply-chain & pricing platform. Multi-tenant Tally ERP bill ingestion, automated margin guardrails, and thermal barcode sticker print engine. Built with Next.js 16, Supabase, & TypeScript.",
+    "topics": [
+      "nextjs",
+      "react",
+      "typescript",
+      "supabase",
+      "postgresql",
+      "tally-erp",
+      "supply-chain",
+      "b2b-saas",
+      "pricing-engine",
+      "thermal-printing",
+      "barcode-generator",
+      "retail-tech"
+    ],
+    "rationale": "Demonstrates flagship full-stack production architecture with real-world enterprise adoption. Transformed a 30-year legacy distributor, solved complex multi-format ERP ingestion (XML/PDF/Excel), automated proprietary mathematical pricing matrices, and implemented hardware-level sub-millimeter thermal barcode printing with zero label waste."
+  },
+  {
+    "order": 2,
+    "repo_name": "eq-analytics-terminal",
+    "display_title": "Nexus Equity Terminal — Quantitative Equity Valuation & CDD Platform",
+    "role": "Independent Architect & Developer",
+    "category": "Quantitative Finance & Deep Learning / RAG",
+    "primary_stack": "Python 3.11+, Streamlit, PyTorch GRU, LangChain, FAISS, Llama-3.1-8B, yfinance, Scikit-learn, Plotly",
+    "key_metric": "75% reduction in equity research turnaround (4–6 hours to <30 minutes) across 50+ global equities",
+    "description": "Institutional-grade quantitative equity research & M&A terminal. Dynamic RAG (Llama 3.1) over SEC 10-K filings, PyTorch GRU price forecasting, real-time DCF valuation, and FAISS semantic indexing.",
+    "topics": [
+      "quantitative-finance",
+      "equity-research",
+      "rag",
+      "llama-3",
+      "pytorch",
+      "gru",
+      "financial-modeling",
+      "dcf-valuation",
+      "streamlit",
+      "faiss"
+    ],
+    "rationale": "Showcases high-level quantitative finance and AI/ML capability. Synthesizes PyTorch deep learning price forecasting, dynamic RAG over SEC 10-K filings, and institutional-grade multi-stage DCF valuation and sensitivity modeling actively used by peer investment syndicates."
+  },
+  {
+    "order": 3,
+    "repo_name": "sme-credit-platform",
+    "display_title": "SME Credit Risk Assessment Engine — Explainable AI for Fintech",
+    "role": "Lead Machine Learning Engineer",
+    "category": "Predictive Machine Learning & Explainable AI (XAI)",
+    "primary_stack": "Python, XGBoost Classifier, SHAP, Scikit-learn, Pandas, NumPy, Streamlit",
+    "key_metric": "AUC-ROC 0.8685, 87% recall, 42% credit loss identification improvement on 5,000+ commercial entities",
+    "description": "ML-powered SME credit risk platform for India. XGBoost model (AUC 0.8685) calibrated on RBI Jan 2026 data with SHAP explainability, feature contribution waterfalls, and Magic UI 2.0 dashboard.",
+    "topics": [
+      "machine-learning",
+      "credit-risk",
+      "xgboost",
+      "shap",
+      "fintech",
+      "streamlit",
+      "python",
+      "financial-analytics",
+      "rbi-data"
+    ],
+    "rationale": "Proves rigorous machine learning calibration on institutional banking data (RBI Jan 2026). Delivers transparent credit decisioning via SHAP waterfall plots for credit underwriting committees, solving regulatory explainability in financial risk."
+  },
+  {
+    "order": 4,
+    "repo_name": "market-research-pipeline",
+    "display_title": "Autonomous Market Intelligence Pipeline — Multi-Agent Orchestration",
+    "role": "Automation & Workflow Architect",
+    "category": "Agentic AI & Workflow Automation",
+    "primary_stack": "n8n Workflow Automation, Groq LLaMA 3.3 70B, Tavily Search API, Perplexity Sonar, Google Sheets / Docs API, Airtable",
+    "key_metric": "7-section executive market intelligence brief in <60 seconds; 90% reduction in manual desk research",
+    "description": "Autonomous AI market research & competitive intelligence pipeline. Multi-agent n8n orchestration, Tavily real-time web search, and 3-stage Groq LLaMA 3.3 analytical synthesis.",
+    "topics": [
+      "n8n",
+      "agentic-workflows",
+      "market-research",
+      "groq",
+      "llama-3-3",
+      "tavily",
+      "workflow-automation",
+      "market-intelligence",
+      "ai-agents"
+    ],
+    "rationale": "Demonstrates mastery of cutting-edge agentic workflows, multi-node orchestration, and rapid document synthesis. Connects event-triggered inputs to multi-stage LLM chains, producing executive-ready strategic due diligence in under 60 seconds."
+  },
+  {
+    "order": 5,
+    "repo_name": "RishabJainhub",
+    "display_title": "Rishab Jain — Master Profile Repository & Personal Brand Engine",
+    "role": "Portfolio Author & Systems Architect",
+    "category": "Personal Branding & Portfolio Ecosystem",
+    "primary_stack": "Markdown, GitHub Actions, Shields.io, Custom SVG Telemetry Badges",
+    "key_metric": "Central visual and technical gateway unifying 5 repositories, corporate metrics, and academic research",
+    "description": "Personal GitHub profile README and portfolio showcase for Rishab P Jain. AI Generalist, Systems Architect, and Strategy & Business Analytics Specialist.",
+    "topics": [
+      "profile-readme",
+      "portfolio",
+      "ai-architect",
+      "business-analytics",
+      "strategy-consulting",
+      "rishab-jain"
+    ],
+    "rationale": "Serves as the interactive anchor and primary landing page for the GitHub account, synthesizing academic pedigree (Warwick MSc & Christ BBA), HPE corporate achievements, published game theory research, live production links, and technical skill taxonomy."
+  }
+]
